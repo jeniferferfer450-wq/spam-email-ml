@@ -2,11 +2,11 @@
 
 ## Identitas Mahasiswa
 
-- Nama: [Nama Anda]
-- NIM: [NIM Anda]
+- Nama: Jenifer Magdalena
+- NIM: 2024606601039
 - Kelas: [Kelas Anda]
 - Mata Kuliah: Kecerdasan Buatan
-- Program Studi: [Program Studi Anda]
+- Program Studi: Sistem dan Teknologi Informasi
 
 ## Deskripsi Proyek
 
