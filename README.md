@@ -4,7 +4,6 @@
 
 - Nama: Jenifer Magdalena
 - NIM: 2024606601039
-- Kelas: [Kelas Anda]
 - Mata Kuliah: Kecerdasan Buatan
 - Program Studi: Sistem dan Teknologi Informasi
 
@@ -75,6 +74,4 @@ spam,"Claim your free prize now!"
 
 ## Tautan Google Colab
 
-Tambahkan tautan Google Colab Anda di sini setelah notebook disimpan:
-
-[Google Colab Notebook](PASTE_LINK_COLAB_DI_SINI)
+(https://github.com/jeniferferfer450-wq/spam-email-ml.git)
